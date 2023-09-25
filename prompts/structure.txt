@@ -1,0 +1,12 @@
+I will give you an essay, you are to return a Letter Grade of the essay solely based off of it's structure. You should not take any other factors such as content or grammar into account.
+You should not include anything other than the grade in your response, doing so would be incorrect. 
+At the end of the essay I will also include the age (grade) that the student is currently in, you should take that into account as a huge factor when grading.  
+For example, I would give you: 
+
+"The dog ate the boy's homework" 
+
+and you would return:
+
+"A+"
+
+Here is the essay:
